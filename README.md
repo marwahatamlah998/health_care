@@ -1,1 +1,1 @@
-# HealthCare Ssytem
+# HealthCare System
