@@ -1,7 +1,11 @@
 import Image from "next/image";
+import { redirect } from "next/navigation";
+
 
 export default function Home() {
+  redirect("/home");
   return (
-    <><div>hi</div><div>page</div></>
+    <><div>hi</div><div>page</div>
+     </>
   );
 }
