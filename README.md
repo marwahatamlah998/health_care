@@ -5,7 +5,6 @@
 </p>
 
 <h3 align="center">Medixa®</h3>
----
 
 
 
@@ -21,9 +20,9 @@
 
 ## 🧐 About <a name = "about"></a>
 
-The **Medivo**’s project is designed to create a modern, user‑friendly healthcare portal that connects patients with qualified medical professionals across multiple specialties and locations. By offering a comprehensive doctor directory—including profiles with specializations, clinic details, and patient reviews—Medivo makes it easy for users to discover the right provider for their needs. Integrated appointment booking streamlines the scheduling process, allowing patients to choose convenient time slots.
+The **Medixa®**’s project is designed to create a modern, user‑friendly healthcare portal that connects patients with qualified medical professionals across multiple specialties and locations. By offering a comprehensive doctor directory—including profiles with specializations, clinic details, and patient reviews—Medixa® makes it easy for users to discover the right provider for their needs. Integrated appointment booking streamlines the scheduling process, allowing patients to choose convenient time slots.
 
-To ensure that **Medivo** remains a trusted network of qualified professionals, we’ve implemented a “Join Request” workflow for new doctors. Prospective practitioners can submit their credentials—information, specialty details, and clinic name—through a secure online form.
+To ensure that **Medixa®** remains a trusted network of qualified professionals, we’ve implemented a “Join Request” workflow for new doctors. Prospective practitioners can submit their credentials—information, specialty details, and clinic name—through a secure online form.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -41,7 +40,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repo to your local machine using git bash.
 
 ```
-git clone https://github.com/HealthStackers/MERAKI_Academy_Project_5-
+git clone https://github.com/marwahatamlah998/health_care
 ```
 
 2. Install packeges repeat this step in backend and frontend folder
