@@ -6,7 +6,7 @@
 
 <h3 align="center">Medixa®</h3>
 
-
+Vercel URL : https://health-care-wx1q.vercel.app/
 
 ## 📝 Table of Contents
 
